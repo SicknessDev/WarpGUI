@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sick\\source\\repos\\warpGUI\\warpGUI\\warpGUI.csproj",
+      "projectUniqueName": "C:\\Users\\Sick\\source\\repos\\GitHub\\WarpGUI\\warpGUI\\warpGUI.csproj",
       "projectName": "warpGUI",
-      "projectPath": "C:\\Users\\Sick\\source\\repos\\warpGUI\\warpGUI\\warpGUI.csproj",
+      "projectPath": "C:\\Users\\Sick\\source\\repos\\GitHub\\WarpGUI\\warpGUI\\warpGUI.csproj",
       "packagesPath": "C:\\Users\\Sick\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sick\\source\\repos\\warpGUI\\warpGUI\\obj\\",
+      "outputPath": "C:\\Users\\Sick\\source\\repos\\GitHub\\WarpGUI\\warpGUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sick\\AppData\\Roaming\\NuGet\\NuGet.Config",
