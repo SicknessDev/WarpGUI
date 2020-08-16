@@ -1,0 +1,15 @@
+C:\Users\Sick\source\repos\warpGUI\warpGUI\bin\Debug\netcoreapp3.1\warpGUI.exe
+C:\Users\Sick\source\repos\warpGUI\warpGUI\bin\Debug\netcoreapp3.1\warpGUI.deps.json
+C:\Users\Sick\source\repos\warpGUI\warpGUI\bin\Debug\netcoreapp3.1\warpGUI.runtimeconfig.json
+C:\Users\Sick\source\repos\warpGUI\warpGUI\bin\Debug\netcoreapp3.1\warpGUI.runtimeconfig.dev.json
+C:\Users\Sick\source\repos\warpGUI\warpGUI\bin\Debug\netcoreapp3.1\warpGUI.dll
+C:\Users\Sick\source\repos\warpGUI\warpGUI\bin\Debug\netcoreapp3.1\warpGUI.pdb
+C:\Users\Sick\source\repos\warpGUI\warpGUI\obj\Debug\netcoreapp3.1\warpGUI.csprojAssemblyReference.cache
+C:\Users\Sick\source\repos\warpGUI\warpGUI\obj\Debug\netcoreapp3.1\warpGUI.Form1.resources
+C:\Users\Sick\source\repos\warpGUI\warpGUI\obj\Debug\netcoreapp3.1\warpGUI.csproj.GenerateResource.cache
+C:\Users\Sick\source\repos\warpGUI\warpGUI\obj\Debug\netcoreapp3.1\warpGUI.AssemblyInfoInputs.cache
+C:\Users\Sick\source\repos\warpGUI\warpGUI\obj\Debug\netcoreapp3.1\warpGUI.AssemblyInfo.cs
+C:\Users\Sick\source\repos\warpGUI\warpGUI\obj\Debug\netcoreapp3.1\warpGUI.csproj.CoreCompileInputs.cache
+C:\Users\Sick\source\repos\warpGUI\warpGUI\obj\Debug\netcoreapp3.1\warpGUI.dll
+C:\Users\Sick\source\repos\warpGUI\warpGUI\obj\Debug\netcoreapp3.1\warpGUI.pdb
+C:\Users\Sick\source\repos\warpGUI\warpGUI\obj\Debug\netcoreapp3.1\warpGUI.genruntimeconfig.cache
